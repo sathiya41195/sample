@@ -1,0 +1,6 @@
+public class test(){
+
+public Static void main(str args[]){
+System.out.priintln("hiii");
+}
+}
